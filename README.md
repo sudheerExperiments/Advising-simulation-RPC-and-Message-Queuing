@@ -28,11 +28,13 @@ The project is designed to run in python 3. I recommend to check the library req
 ##### RPC server:
 
 > Server IP: localhost
+
 > Server port number: 6000
 
 ##### RPC client: 
 
 > Client IP: localhost
+
 > Client port number: 6000
 
 **The values can be changed in the code as shown below**
