@@ -82,5 +82,5 @@ After executing, the process runs in an infinite loop and requests server for ad
 * The server and clients are designed to run locally. Modifications might be required to run in remote environment.
 
 ### Additional information:
-                                                                                                                                                   1,1           Top
+
 For more information refer the project wiki.
