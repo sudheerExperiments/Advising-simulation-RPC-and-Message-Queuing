@@ -13,6 +13,9 @@
 
 * [Python v3.6.2](https://www.python.org/downloads/)
 
+### Features:
+* Can resume sending messages when server crashes(Message queue is persistent).
+
 ### Setup:
 The project is designed to run in python 3. I recommend to check the library requirements before running the project in later or before versions.
 
